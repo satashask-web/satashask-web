@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Satasha Kamble!
 
-<!--
-**satashask-web/satashask-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Sc. Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a computer science student interested in software development and web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Currently pursuing B.Sc.
+- Learning Full Stack Web Development.
+- Interested in building practical projects.
+- Continuously improving my programming skills.
+
+## Technical Skills
+
+- **Programming:** Java, JavaScript, PHP
+- **Web Development:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+## Projects
+
+- Student Registration System
+- Student Management System
+- Full Stack Web Development Projects
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/satashakamble
+
+
+
+
+
+
+
+
+www.linkedin.com/in/satashakamble
