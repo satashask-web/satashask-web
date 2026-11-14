@@ -27,12 +27,3 @@ I'm a computer science student interested in software development and web techno
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/satashakamble
-
-
-
-
-
-
-
-
-www.linkedin.com/in/satashakamble
